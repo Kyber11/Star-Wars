@@ -1,0 +1,173 @@
+@font-face {
+    font-family: 'Star Wars';
+    src: url('police/police all text.ttf') format('TrueType');
+}
+
+#formulaire {
+	margin-left: 400px;
+	padding: 40px;
+}
+
+#send1 {
+	color: red;
+	margin-left: 100px;
+}
+
+#reponse {
+	text-align: center;
+	margin-left:30px;
+	font-family: 'Star Wars2';
+}
+
+h2 {
+    text-align: center;
+}
+
+u {
+	text-decoration: underline double;
+}
+
+p {
+	text-align: center;
+
+}
+		
+body { 
+	background-image: url('image/fond vl.jpg');
+	background-position: right-side;
+	background-position: left-side;
+	background-attachment: fixed;
+    width: 50%; 
+    margin: 0 auto;
+    padding: 0;
+	color: #FFD700;
+	font-family: 'Star Wars';
+	
+
+	
+}
+
+.texte { 
+	box-shadow: 0 0 40px rgba(128, 0, 128, 0.8);
+	margin: 100px auto;
+	padding: 30px;
+	box-sizing: border-box;
+    background-color: transparent;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: auto;	
+}
+   
+
+
+#pac {
+	text-align: left;
+}
+
+@font-face {
+    font-family: 'Star Wars2';
+	src: url('police/police3.ttf') format('TrueType');
+}
+
+.titre {
+	box-shadow: 0 0 30px #FFD700;
+	font-family: 'Star Wars';
+	background-image: url('image/image de titre.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: black;
+	border: 10px solid black;
+	font-size:3pm; 
+	text-align: center;
+	color: #FFD700;
+	margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+	position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+#sl {
+	line-height: 4;
+    text-decoration: underline;
+    margin-top: 200px;
+    box-shadow: 0 0 40px rgba(255, 0, 0, 0.8);
+    box-sizing: border-box;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    right: 0; 
+    width: 20%;
+    height: 100%;
+    background-color: transparant;
+    color: #FFD700;
+    padding: 20px;
+}
+
+#sf {
+	line-height: 4;
+	text-decoration: underline;
+	margin-top: 400px;
+	box-shadow: 0 0 40px rgba(255, 0, 0, 0.8);
+	box-sizing: border-box;
+	text-align: center;
+	margin: 200px auto;
+    position: fixed;
+    top: 0;
+    left: 0; 
+    width: 20%; 
+    height: 100%; 
+    background-color: transparant; 
+    color: #FFD700;
+    padding: 20px; 
+	
+}
+	
+#image {
+	margin-left: 17%;
+}
+
+#t {
+	text-decoration: underline double;
+}
+	
+table {
+	border: 2px solid white;
+}
+
+td {
+	border: 2px solid white;
+}
+	
+th {
+	border: 2px solid white;
+}
+
+button {
+	background-color: red;
+	border: none;
+	cursor: pointer;
+	color:white;
+	color: #FFD700;
+	padding: 12px 30px;
+	border-radius: 15%;
+	margin: 4px 2px;
+}
+
+button:hover {
+	background-color: rgba(128, 0, 128, 0.8);
+	box-shadow: 0 0 40px rgba(128, 0, 128, 0.8);
+}
+
+a {
+	color: #FFD700;
+}
+
+
+#link {
+	color:blue;
+}
+
